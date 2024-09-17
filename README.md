@@ -13,10 +13,6 @@
 
 ---
 
-![Login-Information](./assets/images/LoginInformation.PNG)
-
----
-
 ## Description
 
 This website was created to show how loggin into a server works and authentication of the Users information. Upon logging in, you are met with a screen that allows for putting data into three different categores:
